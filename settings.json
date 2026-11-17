@@ -1,0 +1,5 @@
+{
+  "ProxyHost": "co-toc-virt-cvproxy01",
+  "ProxyPort": 8452,
+  "InstallPath": "C:\\Temp\\Commvault"
+}
